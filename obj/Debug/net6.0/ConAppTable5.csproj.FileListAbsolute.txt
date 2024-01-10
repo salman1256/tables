@@ -12,3 +12,4 @@ D:\Mphasis-B2\Phase-4\Day-4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\refint\Co
 D:\Mphasis-B2\Phase-4\Day-4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.pdb
 D:\Mphasis-B2\Phase-4\Day-4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.genruntimeconfig.cache
 D:\Mphasis-B2\Phase-4\Day-4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ref\ConAppTable5.dll
+D:\Mphasis-B2\Phase-4\Day-4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.sourcelink.json
